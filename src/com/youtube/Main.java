@@ -2,19 +2,12 @@ package com.youtube;
 
 public class Main {
     public static void main(String[] args) {
-        int baseSalary = 50_000;
-        int extraHours = 10;
-        int hourlyRate = 20;
-
-        int wage = calculateWage(baseSalary,extraHours,hourlyRate);
-        System.out.println(wage);
+        Employee employee1 = new Employee();    //create new Employee object
+        employee1.baseSalary = 50_000;  //assign value "50_000" to baseSalary field
+        employee1.hourlyRate = 20; //assign value "20" to hourlyRate field
+        int wage = employee1.calculateWage(10); //call calculateWage method in Employee class,
+        // and store the output in int wage variable
+        System.out.println(wage); //print the result
     }
 
-    public static int calculateWage(
-            int baseSalary,
-            int extraHours,
-            int hourlyRate
-    ){
-        return baseSalary + (extraHours * hourlyRate);
-    }
 }
