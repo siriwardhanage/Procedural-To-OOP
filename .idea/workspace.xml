@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79f4a588-4b45-45fc-a258-9c5ad2ee4f85" name="Changes" comment="create Employee object and call calculateWage method">
+    <list default="true" id="79f4a588-4b45-45fc-a258-9c5ad2ee4f85" name="Changes" comment="setter for baseSalary&#10;*make baseSalary private&#10;*create setBaseSalary() method for validate &#10;*In main class call setBaseSalary though Employee class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/youtube/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/youtube/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/youtube/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/youtube/Main.java" afterDir="false" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700824148693</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="setter for baseSalary&#10;*make baseSalary private&#10;*create setBaseSalary() method for validate &#10;*In main class call setBaseSalary though Employee class">
+      <option name="closed" value="true" />
+      <created>1700826010538</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700826010538</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -102,6 +110,7 @@
     <MESSAGE value="Procedural programme calculate wage" />
     <MESSAGE value="Create Employee class to Encapsulate the data" />
     <MESSAGE value="create Employee object and call calculateWage method" />
-    <option name="LAST_COMMIT_MESSAGE" value="create Employee object and call calculateWage method" />
+    <MESSAGE value="setter for baseSalary&#10;*make baseSalary private&#10;*create setBaseSalary() method for validate &#10;*In main class call setBaseSalary though Employee class" />
+    <option name="LAST_COMMIT_MESSAGE" value="setter for baseSalary&#10;*make baseSalary private&#10;*create setBaseSalary() method for validate &#10;*In main class call setBaseSalary though Employee class" />
   </component>
 </project>
