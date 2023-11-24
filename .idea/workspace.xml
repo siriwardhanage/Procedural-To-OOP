@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79f4a588-4b45-45fc-a258-9c5ad2ee4f85" name="Changes" comment="add a getter and a setter for hourlyRate">
-      <change beforePath="$PROJECT_DIR$/src/com/youtube/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/youtube/Employee.java" afterDir="false" />
+    <list default="true" id="79f4a588-4b45-45fc-a258-9c5ad2ee4f85" name="Changes" comment="for Abstraction make getters private, &#10;it also reduces the coupling points">
+      <change afterPath="$PROJECT_DIR$/src/com/youtube/Browser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/youtube/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/youtube/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Encapsulation" />
+        <entry key="$PROJECT_DIR$" value="Abstraction" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Abstraction"
+    "git-widget-placeholder": "Reduce-Coupling"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -116,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700841146028</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="for Abstraction make getters private, &#10;it also reduces the coupling points">
+      <option name="closed" value="true" />
+      <created>1700843414154</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700843414154</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -127,6 +137,7 @@
     <MESSAGE value="setter for baseSalary&#10;*make baseSalary private&#10;*create setBaseSalary() method for validate &#10;*In main class call setBaseSalary though Employee class" />
     <MESSAGE value="add getter to get the baseSalary" />
     <MESSAGE value="add a getter and a setter for hourlyRate" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a getter and a setter for hourlyRate" />
+    <MESSAGE value="for Abstraction make getters private, &#10;it also reduces the coupling points" />
+    <option name="LAST_COMMIT_MESSAGE" value="for Abstraction make getters private, &#10;it also reduces the coupling points" />
   </component>
 </project>
