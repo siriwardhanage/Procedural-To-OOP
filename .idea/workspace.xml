@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="79f4a588-4b45-45fc-a258-9c5ad2ee4f85" name="Changes" comment="" />
+    <list default="true" id="79f4a588-4b45-45fc-a258-9c5ad2ee4f85" name="Changes" comment="add Main Class">
+      <change beforePath="$PROJECT_DIR$/src/com/youtube/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/youtube/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +40,27 @@
       <option name="presentableId" value="Default" />
       <updated>1700820843314</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Main Class">
+      <option name="closed" value="true" />
+      <created>1700821070231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700821070231</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Main Class">
+      <option name="closed" value="true" />
+      <created>1700821217425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700821217425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Main Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Main Class" />
   </component>
 </project>
